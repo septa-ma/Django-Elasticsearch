@@ -22,7 +22,7 @@
 - Shard -> An index can potentially store a large amount of data that can exceed the hardware limits of a single node. For example, a single index of a billion documents taking up 1TB of disk space may not fit on the disk of a single node or may be too slow to serve search requests from a single node alone. To solve this problem, Elasticsearch provides the ability to subdivide your index into multiple pieces called shards. When you create an index, you can simply define the number of shards that you want. Each shard is in itself a fully-functional and independent "index" that can be hosted on any node in the cluster.
 **more info:**
 - https://www.techtarget.com/searchoracle/definition/sharding
-- https://geekflare.com/database-sharding/
+- https://www.digitalocean.com/community/tutorials/understanding-database-sharding
 
 - Replica -> Is a fail-safe mechanism and basically a copy of your index's shard. In a network/cloud environment where failures can be expected anytime, it is very useful and highly recommended to have a failover mechanism in case a shard/node somehow goes offline or disappears for whatever reason. To this end, Elasticsearch allows you to make one or more copies of your index’s shards into what are called replica shards, or replicas for short.
 
