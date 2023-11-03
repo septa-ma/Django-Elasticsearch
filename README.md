@@ -1,8 +1,8 @@
 # Django-Elasticsearch
 
 # 1- What is Elasticsearch?
-*** Elasticsearch is a distributed, free and open search and analytics engine for all types of data, including textual, numerical, geospatial, structured, and unstructured. Elasticsearch is the central component of the ELK Stack. ***
-*** Its use cases include: ***
+**Elasticsearch is a distributed, free and open search and analytics engine for all types of data, including textual, numerical, geospatial, structured, and unstructured. Elasticsearch is the central component of the ELK Stack.**
+**ts use cases include:**
 - Site search and application search
 - Monitoring and visualizing your system metrics
 - Security and business analytics
