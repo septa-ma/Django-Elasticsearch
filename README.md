@@ -1,15 +1,14 @@
 # Django-Elasticsearch
 
 # 1- What is Elasticsearch?
-**Elasticsearch is a distributed, free and open search and analytics engine for all types of data, including textual, numerical, geospatial, structured, and unstructured. Elasticsearch is the central component of the ELK Stack.**
-**ts use cases include:**
+**Elasticsearch is a distributed, free and open search and analytics engine for all types of data, including textual, numerical, geospatial, structured, and unstructured. Elasticsearch is the central component of the ELK Stack. Its use cases include:**
 - Site search and application search
 - Monitoring and visualizing your system metrics
 - Security and business analytics
 - Logging and log analysis
 
 # 2- What is Elasticsearch used for?
-*** Elasticsearch allows you to store, search, and analyze huge volumes of data quickly and in near real-time and give back answers in milliseconds. It’s able to achieve fast search responses because instead of searching the text directly, it searches an index. ***
+**Elasticsearch allows you to store, search, and analyze huge volumes of data quickly and in near real-time and give back answers in milliseconds. It’s able to achieve fast search responses because instead of searching the text directly, it searches an index.**
 
 # 3- Elasticsearch Structure and Concepts:
 - Cluster -> is a collection of one or more nodes.
@@ -32,7 +31,7 @@
 
 
 
-*** sources: ***
+**Sources:**
 - https://testdriven.io/blog/django-drf-elasticsearch/
 - https://medium.com/geekculture/how-to-use-elasticsearch-with-django-ff49fe02b58d
 - https://www.elastic.co/guide/en/elasticsearch/reference/6.2/_basic_concepts.html#getting-started-shards-and-replicas
